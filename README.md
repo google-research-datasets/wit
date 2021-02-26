@@ -1,8 +1,6 @@
-Wikipedia-based Image Text (WIT) Dataset is a large multimodal multilingual dataset. 
-It includes 11 million+ unique images with over 37 million sets of entity rich text descriptions 
-associated with these images. These images and text are from various Wikipedia pages from 
-over 100 languages. Its size enables WIT to be used as a pretraining dataset for 
-multimodal models when applied to downstream tasks such as image-text retrieval, captioning and classification. 
+# Wikipedia Image Text (WIT) Dataset
+
+Wikipedia-based Image Text (WIT) Dataset is a large multimodal multilingual dataset.  It includes 11 million+ unique images with over 37 million sets of entity rich text descriptions  associated with these images. These images and text are from various Wikipedia pages from  over 100 languages. Its size enables WIT to be used as a pretraining dataset for  multimodal models when applied to downstream tasks such as image-text retrieval, captioning and classification. 
 
 WIT has four main and unique advantages. 
 
