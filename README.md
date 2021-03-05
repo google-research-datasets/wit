@@ -94,6 +94,14 @@ real-world tasks over visio-linguistic data.
 Please stay tuned and we will share the details about how to download WIT
 dataset.
 
+### Availability
+
+We are hoping to make the WIT dataset available for download by March 20th, 2021. (tentatively).
+
+### License
+
+We are planning to release this under the CC-BY-SA license. Exact license type and the license text will be available by the time of the dataset availability.
+
 ### Contact
 
 For any questions, please contact wit-dataset@google.com.
