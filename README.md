@@ -12,7 +12,7 @@ A few unique advantages of WIT:
 
 -   The largest multimodal dataset (time of this writing) by the number of
     image-text examples.
--   A massively multilingual (first of its kind) with coverage for over 100+
+-   A massively multilingual dataset (first of its kind) with coverage for over 100+
     languages.
 -   A collection of diverse set of concepts and real world entities.
 -   Brings forth challenging real-world test sets.
