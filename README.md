@@ -100,7 +100,7 @@ We are hoping to make the WIT dataset available for download by March 20th, 2021
 
 ### License
 
-We are planning to release this under the CC-BY-SA license. Exact license type and the license text will be available by the time of the dataset availability.
+This data is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
 
 ### Contact
 
