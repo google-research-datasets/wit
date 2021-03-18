@@ -114,5 +114,4 @@ This data is available under the [Creative Commons Attribution-ShareAlike 3.0 Un
 
 For any questions, please contact wit-dataset@google.com.
 
-Last but not least, if WIT dataset is useful to you, please do write to us about it. Be it a blog post, a research project or a paper you are working, 
-we are delighted to learn about it.
+If WIT dataset is useful to you, please do write to us about it. Be it a blog post, a research project or a paper, we are delighted to learn about it.
