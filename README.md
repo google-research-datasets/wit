@@ -10,7 +10,7 @@ multimodal machine learning models.
 
 A few unique advantages of WIT:
 
--   The largest multimodal dataset (time of this writing) by the number of
+-   The largest multimodal dataset (publicly available at the time of this writing) by the number of
     image-text examples.
 -   A massively multilingual dataset (first of its kind) with coverage for over 100+
     languages.
@@ -59,9 +59,9 @@ in the above image) from Wikipedia articles and Wikimedia image links. This was
 accompanied by rigorous filtering to only retain high quality image-text sets.
 
 The resulting dataset contains over 37.6 million image-text sets – making WIT
-the largest multimodal dataset (at the time of this writing) with unparalleled
-multilingual coverage – with 12K+ examples in each of 108 languages (53
-languages have 100K+ image-text pairs).
+the largest multimodal dataset (publicly available at the time of this writing) 
+with unparalleled multilingual coverage – with 12K+ examples in each of 
+108 languages (53 languages have 100K+ image-text pairs).
 
 ## WIT: Dataset Numbers
 
