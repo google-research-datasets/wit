@@ -29,6 +29,8 @@ For example, let's take the Wikipedia page for
 
 ![WIT Wikipedia Half Dome Image](images/wit_half_dome_wiki.png)
 
+[From the Wikipedia page for Half Dome : Photo by DAVID ILIFF. License: CC BY-SA 3.0](https://en.wikipedia.org/wiki/Half_Dome#/media/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg)
+
 ## Wikipedia Page with Annotations of what we can extract
 
 From this page, we highlight the various key pieces of data that we can
