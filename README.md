@@ -91,7 +91,7 @@ better multimodal multilingual models and in identifying better learning and
 representation techniques leading to improvement of Machine Learning models in
 real-world tasks over visio-linguistic data.
 
-WIT Dataset is now available for download. Please check the [data][DATA] page.
+WIT Dataset is now available for download. Please check the [data](DATA) page.
 
 ## Citing WIT
 
