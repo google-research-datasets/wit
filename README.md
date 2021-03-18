@@ -29,7 +29,7 @@ For example, let's take the Wikipedia page for
 
 ![WIT Wikipedia Half Dome Image](images/wit_half_dome_wiki.png)
 
-## Wikipedia Page with Annotations of what we can Extract
+## Wikipedia Page with Annotations of what we can extract
 
 From this page, we highlight the various key pieces of data that we can
 extract - images, their respective text snippets and some contextual metadata.
