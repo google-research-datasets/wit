@@ -91,17 +91,28 @@ better multimodal multilingual models and in identifying better learning and
 representation techniques leading to improvement of Machine Learning models in
 real-world tasks over visio-linguistic data.
 
-Please stay tuned and we will share the details about how to download WIT
-dataset.
+WIT Dataset is now available for download. Please check the [data][DATA] page.
 
-### Availability
+## Citing WIT
 
-We are hoping to make the WIT dataset available for download by March 20th, 2021. (tentatively).
+If you use the WIT dataset, you can cite our work as follows.
 
-### License
+```
+@article{srinivasan2021wit,
+  title={WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning},
+  author={Srinivasan, Krishna and Raman, Karthik and Chen, Jiecao and Bendersky, Michael and Najork, Marc},
+  journal={arXiv preprint arXiv:2103.01913},
+  year={2021}
+}
+```
+
+## License
 
 This data is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
 
-### Contact
+## Contact
 
 For any questions, please contact wit-dataset@google.com.
+
+Last but not least, if WIT dataset is useful to you, please do write to us about it. Be it a blog post, a research project or a paper you are working, 
+we are delighted to learn about it.
