@@ -12,13 +12,11 @@ test sets for now. The validation and test datasets put together is about ~1% of
 the data. We are planning to use this as the basis for a competition with the
 WIT dataset. Please stay tuned and we will announce the details soon.
 
-Here is a [1% data sample file](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-1percent_sample.tsv.gz) 
-to easily experiment with and for a quick start.
+Here is a [1% data sample file](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-1percent_sample.tsv.gz) for a quick start.
 
 ## File Details
 
-Each row of the WIT dataset consists of 17 columns and they are as follows in
-this order.
+Each row of the WIT dataset consists of 17 columns and they are as follows in this order.
 
 FIELD_NAME                              | FIELD_TYPE |
 ----------------------------------------|------------|
