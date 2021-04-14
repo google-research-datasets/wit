@@ -20,6 +20,8 @@ A few unique advantages of WIT:
 You can learn more about WIT Dataset from our
 [arXiv paper](https://arxiv.org/abs/2103.01913).
 
+Update (2021-04-14): Happy to share the good news that our paper got accepted at [SIGIR Conference](https://sigir.org/sigir2021/call-for-resource-papers/).
+
 ## WIT Example
 
 ## Wikipedia Page
