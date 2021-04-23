@@ -101,7 +101,7 @@ WIT Dataset is now available for download. Please check the [data](DATA.md) page
 
 If you use the WIT dataset, you can cite our work as follows.
 
-```
+```bibtex
 @article{srinivasan2021wit,
   title={WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning},
   author={Srinivasan, Krishna and Raman, Karthik and Chen, Jiecao and Bendersky, Michael and Najork, Marc},
