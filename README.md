@@ -114,6 +114,10 @@ If you use the WIT dataset, you can cite our work as follows.
 
 This data is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
 
+## Projects using WIT
+
+For information regarding [MURAL](https://github.com/google-research-datasets/wit/tree/main/mural) (Multimodal, Multitask Retrieval Across Languages) paper accepted at EMNLP 2021.
+
 ## Contact
 
 For any questions, please contact wit-dataset@google.com.
