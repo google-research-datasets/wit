@@ -20,7 +20,12 @@ A few unique advantages of WIT:
 You can learn more about WIT Dataset from our
 [arXiv paper](https://arxiv.org/abs/2103.01913).
 
-Update (2021-04-14): Happy to share the good news that our paper got accepted at [SIGIR Conference](https://sigir.org/sigir2021/call-for-resource-papers/).
+## Latest Updates
+
+2021-04-14: Happy to share the good news that our paper got accepted at [SIGIR Conference](https://sigir.org/sigir2021/call-for-resource-papers/). From ACM site, you can find our [paper, slides and presentation](https://dl.acm.org/doi/abs/10.1145/3404835.3463257).
+
+2021-09-14: [WIT Image-Text Competition](https://www.kaggle.com/c/wikipedia-image-caption/overview) is live on Kaggle. Our collaborators from Wikimedia Research [blogged](https://techblog.wikimedia.org/2021/09/09/the-wikipedia-image-caption-matching-challenge-and-a-huge-release-of-image-data-for-research/) about this and they have made available the raw pixels and resnet50 embeddings for the images in this set.
+
 
 ## WIT Example
 
