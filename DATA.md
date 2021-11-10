@@ -2,6 +2,8 @@
 
 WIT Dataset is now available for download and use.
 
+WIT is also available as a [Tensorflow Dataset(TFDS)](https://www.tensorflow.org/datasets/catalog/wit).
+
 We are providing WIT as a set of 10 tsv files (compressed). The total dataset
 size is about ~25GB. If you want to start quick, pick any one file which will be
 about ~2.5GB and will give you about ~10% of the data which has about ~3.5M+
