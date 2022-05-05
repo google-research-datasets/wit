@@ -26,7 +26,7 @@ You can learn more about WIT Dataset from our
 
 2021 September: [WIT Image-Text Competition](https://www.kaggle.com/c/wikipedia-image-caption/overview) is live on Kaggle. Our collaborators from Wikimedia Research [blogged](https://techblog.wikimedia.org/2021/09/09/the-wikipedia-image-caption-matching-challenge-and-a-huge-release-of-image-data-for-research/) about this and they have made available the raw pixels and resnet50 embeddings for the images in this set. Here is our [Google AI blog post](https://ai.googleblog.com/2021/09/announcing-wit-wikipedia-based-image.html).
 
-2022 April: We are happy to share that the WIT paper and dataset was awarded the *WikiMedia Foundation's Research Award of the Year* ([tweet 1](https://twitter.com/WikiResearch/status/1518640500000972800), [tweet 2](https://twitter.com/wikiworkshop/status/1518639913813565441)). We are deeply honored this recognition. Thank you!
+2022 April: We are happy to share that the WIT paper and dataset was awarded the **WikiMedia Foundation's Research Award of the Year** ([tweet 1](https://twitter.com/WikiResearch/status/1518640500000972800), [tweet 2](https://twitter.com/wikiworkshop/status/1518639913813565441)). We are deeply honored and thank you for the recognition.
 
 
 ## WIT Example
