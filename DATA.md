@@ -42,7 +42,7 @@ context_section_description             | string     |
 
 ## Download Links
 
-Here are the links to download the 10 files.
+Here are the links to download the 10 files which are part of WIT training set.
 
 [wit_v1.train.all-00000-of-00010.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-00000-of-00010.tsv.gz)
 
@@ -63,6 +63,34 @@ Here are the links to download the 10 files.
 [wit_v1.train.all-00008-of-00010.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-00008-of-00010.tsv.gz)
 
 [wit_v1.train.all-00009-of-00010.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-00009-of-00010.tsv.gz)
+
+
+Here are the links to download the WIT validation set files.
+
+[wit_v1.val.all-00000-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00000-of-00005.tsv.gz)
+
+[wit_v1.val.all-00001-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00001-of-00005.tsv.gz)
+
+[wit_v1.val.all-00002-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00002-of-00005.tsv.gz)
+
+[wit_v1.val.all-00003-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00003-of-00005.tsv.gz)
+
+[wit_v1.val.all-00004-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00004-of-00005.tsv.gz)
+
+
+Here are the links to download the WIT test set files.
+
+[wit_v1.test.all-00000-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.test.all-00000-of-00005.tsv.gz)
+
+[wit_v1.test.all-00001-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.test.all-00001-of-00005.tsv.gz)
+
+[wit_v1.test.all-00002-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.test.all-00002-of-00005.tsv.gz)
+
+[wit_v1.test.all-00003-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.test.all-00003-of-00005.tsv.gz)
+
+[wit_v1.test.all-00004-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.test.all-00004-of-00005.tsv.gz)
+
+
 
 
 ### Data related questions
