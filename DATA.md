@@ -5,14 +5,12 @@ WIT Dataset is now available for download and use.
 WIT is also available as a [Tensorflow Dataset (TFDS)](https://www.tensorflow.org/datasets/catalog/wit).
 
 We are providing WIT as a set of 10 tsv files (compressed). The total dataset
-size is about ~25GB. If you want to start quick, pick any one file which will be
-about ~2.5GB and will give you about ~10% of the data which has about ~3.5M+
-image text example sets.
+size is about ~25GB. This is the entire training dataset. 
 
-This is the entire training dataset. We are holding back the validation and
-test sets for now. The validation and test datasets put together is about ~1% of
-the data. We are planning to use this as the basis for a competition with the
-WIT dataset. Please stay tuned and we will announce the details soon.
+If you want to start quick, pick any one file which will be about ~2.5GB and will give you about ~10% of the data which has about ~3.5M+
+image text example sets. 
+
+We are also including the validation and test sets (5 files each).
 
 Here is a [1% data sample file](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-1percent_sample.tsv.gz) for a quick start.
 
@@ -42,6 +40,8 @@ context_section_description             | string     |
 
 ## Download Links
 
+### Training Set
+
 Here are the links to download the 10 files which are part of WIT training set.
 
 [wit_v1.train.all-00000-of-00010.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-00000-of-00010.tsv.gz)
@@ -65,6 +65,8 @@ Here are the links to download the 10 files which are part of WIT training set.
 [wit_v1.train.all-00009-of-00010.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.train.all-00009-of-00010.tsv.gz)
 
 
+### Validation Set
+
 Here are the links to download the WIT validation set files.
 
 [wit_v1.val.all-00000-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00000-of-00005.tsv.gz)
@@ -76,6 +78,9 @@ Here are the links to download the WIT validation set files.
 [wit_v1.val.all-00003-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00003-of-00005.tsv.gz)
 
 [wit_v1.val.all-00004-of-00005.tsv.gz](https://storage.googleapis.com/gresearch/wit/wit_v1.val.all-00004-of-00005.tsv.gz)
+
+
+### Test Set
 
 
 Here are the links to download the WIT test set files.
