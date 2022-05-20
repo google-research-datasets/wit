@@ -28,6 +28,8 @@ You can learn more about WIT Dataset from our
 
 2022 April: We are happy to share that the WIT paper and dataset was awarded the **WikiMedia Foundation's Research Award of the Year** ([tweet 1](https://twitter.com/WikiResearch/status/1518640500000972800), [tweet 2](https://twitter.com/wikiworkshop/status/1518639913813565441)). We are deeply honored and thank you for the recognition.
 
+2022 May: We have released the WIT validation set and test set. Please see the [data](DATA.md) page for download links.
+
 
 ## WIT Example
 
