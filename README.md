@@ -49,7 +49,7 @@ extract - images, their respective text snippets and some contextual metadata.
 
 ![WIT Half Dome Page with Annotations](images/wit_take2_half_dome_with_annotations.png)
 
-By extracting and filering these carefully, we get a clean high quality
+By extracting and filtering these carefully, we get a clean, high quality
 image-text example that can be used in multimodal modeling.
 
 <!-- ![WIT Half Dome Data](images/wit_half_dome_wiki_and_wit.png) -->
