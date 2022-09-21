@@ -4,6 +4,8 @@ WIT Dataset is now available for download and use.
 
 WIT is also available as a [Tensorflow Dataset (TFDS)](https://www.tensorflow.org/datasets/catalog/wit).
 
+A part of WIT Dataset was used in the [Kaggle Image-Text Retrieval Competition](https://www.kaggle.com/c/wikipedia-image-caption/overview) and you can find images and resnet embeddings available as part of that (not all images but more than 60% of it). These image pixels available here are also available via the TFDS linked above.
+
 We are providing WIT as a set of 10 tsv files (compressed). The total dataset
 size is about ~25GB. This is the entire training dataset. 
 
