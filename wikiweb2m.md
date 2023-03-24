@@ -64,6 +64,9 @@ Here we illustrate how a single webpage can be processed into the three tasks we
 study: page description generation, section summarization, and contextual image
 captioning. The paper includes multiple Wikipedia article examples.
 
+![Illustration of Succulents Wikipedia Article being used for page description generation, section summarization, and contextual image captioning](images/wikiweb2m_image.png)
+
+
 
 ## Usage
 
@@ -71,8 +74,6 @@ captioning. The paper includes multiple Wikipedia article examples.
 
 Here we provide the names of the fields included in the dataset, their
 tensorflow Sequence Example type, their data type, and a brief description.
-
-![Illustration of Succulents Wikipedia Article being used for page description generation, section summarization, and contextual image captioning](images/wikiweb2m_image.png)
 
 
 | Feature | Sequence Example Type | DType | Description |
