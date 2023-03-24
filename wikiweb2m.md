@@ -7,7 +7,15 @@ section each text and image element comes from.
 
 This dataset is a contribution from the paper
 [A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding]().
-The dataset is stored as gzipped TFRecord files which can be downloaded [here]().
+The dataset is stored as gzipped TFRecord files which can be downloaded via these links.
+
+Train:
+
+Val: [https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-val.tfrecord.gz](wikiweb2m-val.tfrecord.gz)
+
+Test: [https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-test.tfrecord.gz](wikiweb2m-test.tfrecord.gz)
+
+
 
 ## WikiWeb2M Statistics
 
