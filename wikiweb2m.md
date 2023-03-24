@@ -5,11 +5,11 @@ Wikipedia articles. Our released dataset includes all of the text content on
 each page, links to the images present, and structure metadata such as which
 section each text and image element comes from.
 
-This dataset is a contribution from the paper
-[A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding]().
+This dataset is a contribution from our upcoming paper
+`A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding`.
 The dataset is stored as gzipped TFRecord files which can be downloaded via these links.
 
-Train:
+**Train**
 
 [wikiweb2m-train.tfrecord.gz-00000-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00000-of-00005)
 
@@ -22,9 +22,14 @@ Train:
 [wikiweb2m-train.tfrecord.gz-00004-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00004-of-00005)
 
 
-Val: [wikiweb2m-val.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-val.tfrecord.gz)
+**Validation** 
 
-Test: [wikiweb2m-test.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-test.tfrecord.gz)
+[wikiweb2m-val.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-val.tfrecord.gz)
+
+
+**Test**
+
+[wikiweb2m-test.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-test.tfrecord.gz)
 
 
 
