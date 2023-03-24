@@ -72,7 +72,7 @@ captioning. The paper includes multiple Wikipedia article examples.
 Here we provide the names of the fields included in the dataset, their
 tensorflow Sequence Example type, their data type, and a brief description.
 
-![Illustration of Succulents Wikipedia Article being used for page description generation, section summarization, and contextual image captioning](images/wikiweb2m_image.png){width="10"}
+![Illustration of Succulents Wikipedia Article being used for page description generation, section summarization, and contextual image captioning](images/wikiweb2m_image.png)
 
 
 | Feature | Sequence Example Type | DType | Description |
