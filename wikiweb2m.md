@@ -11,9 +11,20 @@ The dataset is stored as gzipped TFRecord files which can be downloaded via thes
 
 Train:
 
-Val: [https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-val.tfrecord.gz](wikiweb2m-val.tfrecord.gz)
+[wikiweb2m-train.tfrecord.gz-00000-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00000-of-00005)
 
-Test: [https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-test.tfrecord.gz](wikiweb2m-test.tfrecord.gz)
+[wikiweb2m-train.tfrecord.gz-00001-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00001-of-00005)
+
+[wikiweb2m-train.tfrecord.gz-00002-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00002-of-00005)
+
+[wikiweb2m-train.tfrecord.gz-00003-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00003-of-00005)
+
+[wikiweb2m-train.tfrecord.gz-00004-of-00005](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-train.tfrecord.gz-00004-of-00005)
+
+
+Val: [wikiweb2m-val.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-val.tfrecord.gz)
+
+Test: [wikiweb2m-test.tfrecord.gz](https://storage.googleapis.com/gresearch/wit/wikiweb2m/wikiweb2m-test.tfrecord.gz)
 
 
 
