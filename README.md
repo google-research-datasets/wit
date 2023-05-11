@@ -29,6 +29,17 @@ You can learn more about WIT Dataset from our
 
 2022 May: We have released the WIT validation set and test set. Please see the [data](DATA.md) page for download links.
 
+2022 Oct: [Authoring Tools for Multimedia Content](https://trec.nist.gov/pubs/call2023.html) proposal accepted at TREC 2023
+
+2023 Apr: [AToMiC](https://arxiv.org/abs/2304.01961) accepted at SIGIR 2023.
+
+2023 Apr: [WikiWeb2M Dataset](wikiweb2m.md) released.
+
+2023 May: Three accepted submissions at [WikiWorkshop 2023](https://wikiworkshop.org/2023/).
+    - WikiWeb2M: A Page-Level Multimodal Wikipedia Dataset[pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_10.pdf)
+    - Building Authoring Tools for Multimedia Content with Human-in-the-loop Relevance Annotations [pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_57.pdf)
+    - Characterizing Image Accessibility on Wikipedia across Languages [pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_25.pdf)
+
 
 ## WIT Example
 
