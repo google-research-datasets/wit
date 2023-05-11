@@ -35,9 +35,9 @@ You can learn more about WIT Dataset from our
 
 2023 Apr: [WikiWeb2M Dataset](wikiweb2m.md) released.
 
-2023 May: Three accepted submissions at [WikiWorkshop 2023](https://wikiworkshop.org/2023/).
+2023 May: Accepted submissions at [WikiWorkshop 2023](https://wikiworkshop.org/2023/).
 
--  WikiWeb2M: A Page-Level Multimodal Wikipedia Dataset ([pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_10.pdf))
+-  WikiWeb2M: A Page-Level Multimodal Wikipedia Dataset ([pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_10.pdf), [arXiv](https://arxiv.org/abs/2305.05432))
 -  Building Authoring Tools for Multimedia Content with Human-in-the-loop Relevance Annotations ([pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_57.pdf))
 -  Characterizing Image Accessibility on Wikipedia across Languages ([pdf](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_25.pdf))
 
