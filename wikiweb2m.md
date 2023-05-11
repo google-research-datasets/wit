@@ -5,7 +5,7 @@ Wikipedia articles. Our released dataset includes all of the text content on
 each page, links to the images present, and structure metadata such as which
 section each text and image element comes from.
 
-This dataset is a contribution from our upcoming paper
+This dataset is a contribution from our [paper](https://arxiv.org/abs/2305.03668)
 `A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding`.
 
 The dataset is stored as gzipped TFRecord files which can be downloaded via these links.
@@ -207,7 +207,7 @@ coming months the Prefix Global attention mechanism may be open sourced.
 
 ## How to Cite
 
-If you extend or use this work, please cite the [paper]() where it was
+If you extend or use this work, please cite the [paper](https://arxiv.org/abs/2305.03668) where it was
 introduced:
 
 ```
@@ -215,7 +215,7 @@ introduced:
       title={A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding},
       author={Andrea Burns and Krishna Srinivasan and Joshua Ainslie and Geoff Brown and Bryan A. Plummer and Kate Saenko and Jianmo Ni and Mandy Guo},
       year={2023},
-      eprint={},
+      eprint={https://arxiv.org/abs/2305.03668},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
