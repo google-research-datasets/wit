@@ -122,11 +122,21 @@ WIT Dataset is now available for download. Please check the [data](DATA.md) page
 If you use the WIT dataset, you can cite our work as follows.
 
 ```bibtex
-@article{srinivasan2021wit,
-  title={WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning},
-  author={Srinivasan, Krishna and Raman, Karthik and Chen, Jiecao and Bendersky, Michael and Najork, Marc},
-  journal={arXiv preprint arXiv:2103.01913},
-  year={2021}
+@inproceedings{10.1145/3404835.3463257,
+author = {Srinivasan, Krishna and Raman, Karthik and Chen, Jiecao and Bendersky, Michael and Najork, Marc},
+title = {WIT: Wikipedia-Based Image Text Dataset for Multimodal Multilingual Machine Learning},
+year = {2021},
+isbn = {9781450380379},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3404835.3463257},
+doi = {10.1145/3404835.3463257},
+booktitle = {Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {2443–2449},
+numpages = {7},
+keywords = {dataset, multimodal, machine learning, wikipedia, multilingual, image-text retrieval, neural networks},
+location = {Virtual Event, Canada},
+series = {SIGIR '21}
 }
 ```
 
