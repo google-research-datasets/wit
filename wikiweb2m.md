@@ -211,12 +211,12 @@ If you extend or use this work, please cite the [paper](https://arxiv.org/abs/23
 introduced:
 
 ```
-@misc{burns2023wiki,
-      title={A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding},
-      author={Andrea Burns and Krishna Srinivasan and Joshua Ainslie and Geoff Brown and Bryan A. Plummer and Kate Saenko and Jianmo Ni and Mandy Guo},
-      year={2023},
-      eprint={https://arxiv.org/abs/2305.03668},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{
+burns2023wiki,
+title={A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding},
+author={Andrea Burns and Krishna Srinivasan and Joshua Ainslie and Geoff Brown and Bryan A. Plummer and Kate Saenko and Jianmo Ni and Mandy Guo},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+year={2023},
+url={https://openreview.net/forum?id=rwcLHjtUmn}
 }
 ```
