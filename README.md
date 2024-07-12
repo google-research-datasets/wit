@@ -146,7 +146,9 @@ This data is available under the [Creative Commons Attribution-ShareAlike 3.0 Un
 
 ## Projects using WIT
 
-For information regarding [MURAL](https://github.com/google-research-datasets/wit/tree/main/mural) (Multimodal, Multitask Retrieval Across Languages) paper accepted at EMNLP 2021.
+For information regarding [MURAL](https://github.com/google-research-datasets/wit/tree/main/mural) (Multimodal, Multitask Retrieval Across Languages) paper accepted 
+
+at EMNLP 2021.
 
 ## Contact
 
