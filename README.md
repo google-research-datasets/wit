@@ -150,6 +150,6 @@ For information regarding [MURAL](https://github.com/google-research-datasets/wi
 
 ## Contact
 
-For any questions, please contact wit-dataset@google.com.
+For any questions, please contact wit-dataset@google.com. To contact the first author, Krishna, please reach via his [github profile](https://github.com/krishna2).
 
 If WIT dataset is useful to you, please do write to us about it. Be it a blog post, a research project or a paper, we are delighted to learn about it.
